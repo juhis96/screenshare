@@ -1,5 +1,5 @@
 # screenshare
-C#, PHP and a bit of JS.
+A small project for fun. C#, PHP and a bit of JS.
 
 Out of curiosity for how malware is capable of spying on its victim's monitor, I decided to make a sample project in C# and PHP.
 
